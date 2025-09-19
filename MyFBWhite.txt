@@ -1,37 +1,37 @@
-0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 l.facebook.com
-0.0.0.0 star.c10r.facebook.com
-0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 external-cph2-1.xx.fbcdn.net
-0.0.0.0 video-cph2-1.xx.fbcdn.net
-0.0.0.0 messenger.com	
-0.0.0.0 connect.facebook.net
-0.0.0.0 scontent-cph2-1.xx.fbcdn.net
-0.0.0.0 edge-chat.messenger.com
-0.0.0.0 video.xx.fbcdn.net
-0.0.0.0 web.facebook.com
-0.0.0.0 rupload.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 edge-chat.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
-0.0.0.0 mqtt.c10r.facebook.com
-0.0.0.0 m.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 www.facebook.com
-0.0.0.0 www.messenger.com
-0.0.0.0 media0.giphy.com
-0.0.0.0 media1.giphy.com
-0.0.0.0 media2.giphy.com
-0.0.0.0 media3.giphy.com
-0.0.0.0 media.tenor.co
-0.0.0.0 upload.messenger.com
-0.0.0.0 star.facebook.com
-0.0.0.0 external.xx.fbcdn.net
-0.0.0.0 limited-prod.giphy.map.fastly.net
-0.0.0.0 external-arn2-1.xx.fbcdn.net
-0.0.0.0 scontent-arn2-1.xx.fbcdn.net
-0.0.0.0 cdn.fbsbx.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 lm.facebook.com
-0.0.0.0 media4.giphy.com
+@@||star-mini.c10r.facebook.com^
+@@||l.facebook.com^
+@@||star.c10r.facebook.com^
+@@||scontent.xx.fbcdn.net^
+@@||external-cph2-1.xx.fbcdn.net^
+@@||video-cph2-1.xx.fbcdn.net^
+@@||messenger.com	^
+@@||connect.facebook.net^
+@@||scontent-cph2-1.xx.fbcdn.net^
+@@||edge-chat.messenger.com^
+@@||video.xx.fbcdn.net^
+@@||web.facebook.com^
+@@||rupload.facebook.com^
+@@||edge-mqtt.facebook.com^
+@@||edge-chat.facebook.com^
+@@||mqtt-mini.facebook.com^
+@@||mqtt.c10r.facebook.com^
+@@||m.facebook.com^
+@@||facebook.com^
+@@||static.xx.fbcdn.net^
+@@||www.facebook.com^
+@@||www.messenger.com^
+@@||media0.giphy.com^
+@@||media1.giphy.com^
+@@||media2.giphy.com^
+@@||media3.giphy.com^
+@@||media.tenor.co^
+@@||upload.messenger.com^
+@@||star.facebook.com^
+@@||external.xx.fbcdn.net^
+@@||limited-prod.giphy.map.fastly.net^
+@@||external-arn2-1.xx.fbcdn.net^
+@@||scontent-arn2-1.xx.fbcdn.net^
+@@||cdn.fbsbx.com^
+@@||graph.facebook.com^
+@@||lm.facebook.com^
+@@||media4.giphy.com^
