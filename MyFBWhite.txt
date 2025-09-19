@@ -1,0 +1,48 @@
+######################################################################
+# My PiHole Whitelist for Zuckerberg Stuff
+# A Host file to whitelist as little as possible on Facebook & Messenger, while still making them usable!
+# Based on https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
+#
+######################################################################
+# Version: v1.0.0
+# Project home page: https://github.com/RaisonRed/PiHole_Zuckerberg_Whitelist
+# Title: PiHole_Zuckerberg_Whitelist
+######################################################################
+#
+||star-mini.c10r.facebook.com^
+||l.facebook.com^
+||star.c10r.facebook.com	^
+||scontent.xx.fbcdn.net	^
+||external-cph2-1.xx.fbcdn.net^
+||video-cph2-1.xx.fbcdn.net^
+||messenger.com	^
+||connect.facebook.net^
+||scontent-cph2-1.xx.fbcdn.net^
+||edge-chat.messenger.com^
+||video.xx.fbcdn.net^
+||web.facebook.com^
+||rupload.facebook.com^
+||edge-mqtt.facebook.com^
+||edge-chat.facebook.com^
+||mqtt-mini.facebook.com^
+||mqtt.c10r.facebook.com^
+||m.facebook.com^
+||facebook.com^
+||static.xx.fbcdn.net^
+||www.facebook.com^
+||www.messenger.com^
+||media0.giphy.com^
+||media1.giphy.com^
+||media2.giphy.com^
+||media3.giphy.com^
+||media.tenor.co^
+||upload.messenger.com^
+||star.facebook.com^
+||external.xx.fbcdn.net^
+||limited-prod.giphy.map.fastly.net^
+||external-arn2-1.xx.fbcdn.net^
+||scontent-arn2-1.xx.fbcdn.net^
+||cdn.fbsbx.com^
+||graph.facebook.com^
+||lm.facebook.com^
+||media4.giphy.com^
